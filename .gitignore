@@ -6,6 +6,6 @@ out/
 build/
 target/
 *.class
-# Sistema
+# Sistema version 2
 .DS_Store
 Thumbs.db
